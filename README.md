@@ -1,4 +1,6 @@
-# gsap-vue-scrollmagic-in-nuxtjs
+# Animations au scroll en Vue.js, Nuxt.js et GSAP, Vue-scrollmagic
+
+>Créer des animations au scroll en Vue.js et Nuxt.js en utilisant GSAP et Vue-scrollmagic.
 
 ## Build Setup
 
