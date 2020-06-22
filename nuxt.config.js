@@ -29,8 +29,10 @@ export default {
   ** Plugins to load before mounting the App
   ** https://nuxtjs.org/guide/plugins
   */
-  plugins: [
-  ],
+ plugins: [{
+  src: '~plugins/vue-scrollmagic.js',
+  ssr: false
+}],
   /*
   ** Nuxt.js dev-modules
   */
