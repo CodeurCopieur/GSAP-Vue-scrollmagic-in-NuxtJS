@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "gsap": "^3.3.4",
-    "nuxt": "^2.13.0"
+    "nuxt": "^2.13.0",
+    "sass": "^1.26.8",
+    "sass-loader": "^8.0.2"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.3",
